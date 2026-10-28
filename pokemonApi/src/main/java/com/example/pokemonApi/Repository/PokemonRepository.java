@@ -1,0 +1,7 @@
+package com.example.pokemonApi.Repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class PokemonRepository {
+}
